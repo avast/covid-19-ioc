@@ -1,0 +1,14 @@
+id,first_seen,file_type
+45.9.148.123/covid19/bin/kai/dns3_32bit,2020-05-02T19:36:07+00:00,URL
+45.9.148.123/covid19/bin/kai/dns3,2020-05-02T19:36:07+00:00,URL
+45.9.148.123/covid19/bin/rathole/hole64,2020-05-02T19:36:06+00:00,URL
+45.9.148.123/covid19/bin/rathole/hole32,2020-05-02T19:36:06+00:00,URL
+45.9.148.123/covid19/sh/clean.aliyun.one.sh,2020-05-02T19:36:05+00:00,URL
+45.9.148.123/covid19/sh/clean.running.sh,2020-05-02T19:36:05+00:00,URL
+45.9.148.123/covid19/sh/clean.ssh.dir.sh,2020-05-02T19:36:05+00:00,URL
+45.9.148.123/covid19/sh/lan.redis.pwn.sh,2020-05-02T19:36:04+00:00,URL
+45.9.148.123/covid19/scan/qiumb.sh,2020-05-02T19:36:04+00:00,URL
+45.9.148.123/covid19/scan/zgrab.sh,2020-05-02T19:36:03+00:00,URL
+45.9.148.123/covid19/scan/mxutzh.sh,2020-05-02T19:36:03+00:00,URL
+45.9.148.123/covid19/init.sh,2020-05-02T19:36:03+00:00,URL
+45.9.148.123/covid19/start.sh,2020-05-02T19:36:02+00:00,URL
