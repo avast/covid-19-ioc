@@ -1,5 +1,5 @@
 {
-    "timestamp": "2020-06-23T04:00:22+00:00",
+    "timestamp": "2020-06-23T08:00:27+00:00",
     "categories": {
         "windows": [
             {
@@ -2945,6 +2945,13 @@
                 "entries": 1,
                 "csv": "/datasets/android/20200620_200025.csv",
                 "json": "/datasets/android/20200620_200025.json"
+            },
+            {
+                "name": "20200623_080027",
+                "timestamp": "2020-06-23T08:00:27+00:00",
+                "entries": 1,
+                "csv": "/datasets/android/20200623_080027.csv",
+                "json": "/datasets/android/20200623_080027.json"
             }
         ]
     }
