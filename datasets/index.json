@@ -1,5 +1,5 @@
 {
-    "timestamp": "2021-01-21T20:00:36+00:00",
+    "timestamp": "2021-01-22T00:00:37+00:00",
     "categories": {
         "windows": [
             {
@@ -8788,6 +8788,13 @@
                 "entries": 1,
                 "csv": "/datasets/url/20210121_160053.csv",
                 "json": "/datasets/url/20210121_160053.json"
+            },
+            {
+                "name": "20210122_000036",
+                "timestamp": "2021-01-22T00:00:36+00:00",
+                "entries": 1,
+                "csv": "/datasets/url/20210122_000036.csv",
+                "json": "/datasets/url/20210122_000036.json"
             }
         ],
         "android": [
@@ -11093,6 +11100,13 @@
                 "entries": 70,
                 "csv": "/datasets/android/20210121_200036.csv",
                 "json": "/datasets/android/20210121_200036.json"
+            },
+            {
+                "name": "20210122_000037",
+                "timestamp": "2021-01-22T00:00:37+00:00",
+                "entries": 89,
+                "csv": "/datasets/android/20210122_000037.csv",
+                "json": "/datasets/android/20210122_000037.json"
             }
         ]
     }
