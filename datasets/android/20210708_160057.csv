@@ -1,0 +1,4 @@
+id,first_seen,file_type,package_name,appname
+e40d42ec7eb40c739c5a0064bf23407607b0766efeb4577c725f5fd92601fc60,2021-07-08T13:26:48+00:00,APK,com.dashboarddata.android.covid19,Covid-19 Dashboard
+e09e3a106015af87e7ec90514b225efdfbc1b69af5381d322e8cd69b60a12d6b,2021-07-08T13:15:32+00:00,APK,com.globaldata.android.covid19,Covid-19 Global
+46ef015c06c3920efd48aaab2fa9f7b3687d153bd727cf9b93c1e0426bdb6dc8,2021-07-08T12:05:37+00:00,APK,com.insightdata.android.covid19,Insight Covid-19
